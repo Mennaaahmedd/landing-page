@@ -225,27 +225,4 @@ section.your-active-class .landing__container::after {
 		           rotate(-360deg);
 	}
 }
-/*.toggle-button{
-position: absolute;
-top: 0.75rem;
-right: 1rem;
-display: none;
-flex-direction: column;
-justify-content: space-between;
-width: 30px;
-height: 21px;
-}
-.toggle-button .bar {
-    height: 3px;
-    width: 100px;
-    background-color: #fff;
-    border-radius: 10px;
-}
-@media (max-width:300px){
-    .toggle-button{
-        display: flex;
-    }
-    .navbar_links{
-        display: none;
-    }
-}*/
+
